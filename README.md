@@ -23,5 +23,5 @@ AIR LEGION is a sophisticated application designed to leverage Retrieval-Augment
 
 To interact with AIR LEGION, simply query the system with your airline-related questions. The system retrieves relevant information from the knowledge base and generates accurate responses using the integrated foundation model.
 
-## Developed by 
+## Developed by Team 26
 Shalini , Cijo  , Madhan
